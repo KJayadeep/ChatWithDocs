@@ -1,4 +1,4 @@
-# 📄 RAG — Document Chatbot
+# 📄 ChatWithDocs — Document Chatbot
 
 A simple Retrieval-Augmented Generation (RAG) chatbot that lets you **upload a PDF and ask questions about it**. Built with [LangChain](https://www.langchain.com/), [Google Gemini](https://ai.google.dev/), and [Streamlit](https://streamlit.io/).
 
